@@ -16,7 +16,7 @@ Tiene como objetivo ayudarte a ponerse al día o adquirir las competencias bási
 ## Prueba de Evaluación Continua Bloques 4 y 5
 
 ### Crear una tabla
-* Crear una tabla de este estilo en el fichero README.md con la información de varios de los compañeros de clase y con una cabecera como se muestra a continuación:
+* Crear una tabla de estilo en el fichero README.md con la información de varios de los compañeros de clase y con una cabecera como se muestra a continuación:
 
 
 
