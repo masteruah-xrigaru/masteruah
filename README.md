@@ -44,15 +44,7 @@ Por otro lado, la licencia activa las siguientes restricciones:
 
 ## Ficheros del código fuente
 
-* **src/titanicDataClean**: Es el código completo de gestión de los datos de la web www.kaggle.com que se ha utilizado para el análisis, limpieza y gestión del modelo final de trabajo.
-
-Esta actividad se encuentra en la dirección de GitHub siguiente: https://github.com/rgarciarui/titanicDataClean  
+Esta actividad se encuentra en la dirección de GitHub siguiente: https://github.com/xrigaru/masteruah  
 
 ## Recursos
 
-1. Squire, Megan (2015). Clean Data. Packt Publishing Ltd.
-2. Jiawei Han, Micheine Kamber, Jian Pei (2012). Data mining: concepts and techniques. Morgan Kaufmann.
-3. Jason W. Osborne (2010). Data Cleaning Basics: Best Practices in Dealing with Extreme Scores. Newborn and Infant Nursing Reviews; 10 (1): pp. 1527-3369.
-Peter Dalgaard (2008). Introductory statistics with R. Springer Science & Business Media.
-4. Wes McKinney (2012). Python for Data Analysis. O’Reilley Media, Inc.
-Tutorial de Github (https://guides.github.com/activities/hello-world/)
