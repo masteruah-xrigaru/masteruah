@@ -18,7 +18,19 @@ Tiene como objetivo ayudarte a ponerse al día o adquirir las competencias bási
 ### Crear una tabla
 * Crear una tabla de estilo en el fichero README.md con la información de varios de los compañeros de clase y con una cabecera como se muestra a continuación:
 
+### Compañeros de clase:
 
+|NOMBRE|GITHUB|Repo masteruah|
+|------|------|--------------|
+|Antonio Rodríguez Miguel |antoniohupa|https://github.com/antoniohupa/masteruah|
+|Verónica Morante |vmorante|https://github.com/vmorante/masteruah|
+|Ricardo García Ruiz |xrigaru|https://github.com/xrigaru/masteruah|
+|Silvia Alfayate Gallego |SilviaAG|https://github.com/SilviaAG/masteruah|
+|Asier Aguayo Velasco |Asapuskis|https://github.com/Asapuskis/masteruah|
+|Henry Daniel Remache Tanquino |Hendare|https://github.com/Hendare/masteruah|
+|Onur Satka Irieva |Onurse|https://github.com/Onurse/masteruah|
+|David Pallarés Pontnou |pontnou|https://github.com/pontnou/masteruah|
+|Rafael Calvo Tello |rctguli|https://github.com/rctguli/masteruah|
 
 ## Miembros del equipo
 
